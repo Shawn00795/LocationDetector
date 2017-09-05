@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocationDetector</string>
+    <string name="action_settings">ActionSetting</string>
+    <string name="GPSAlertDialogMessage">GpsAlertMessage</string>
+    <string name="GPSAlertDialogTitle">GpsDialogueTitle</string>
+    <string name="cancel">Cancel</string>
+    <string name="btn_get_location">Get Location</string>
+    <string name="lbl_you_are_at">You Are at</string>
+    <string name="btn_start_location_updates">Start Location Updates</string>
+    <string name="lbl_track_me">Track me</string>
+</resources>
